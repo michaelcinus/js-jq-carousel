@@ -1,0 +1,32 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container-img ul{
+    background-color: aquamarine;
+    width: 400px;
+    height: 400px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-freccia{
+    width: 20%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-freccia i {
+    font-size: 2em;
+}
+
+.none{
+    display: none;
+}
